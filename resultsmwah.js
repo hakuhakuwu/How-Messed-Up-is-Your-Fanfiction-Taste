@@ -13,7 +13,7 @@ function clearBoxes(){
 //Calculates your score
 function calculateScore() {
     var totalChecked = document.querySelectorAll('input[type="checkbox"]:checked') 
-    var score = 100 - totalChecked.length 
+    var score = 130 - totalChecked.length 
 
     //Associates your score with what it says about you
     var meaning;
