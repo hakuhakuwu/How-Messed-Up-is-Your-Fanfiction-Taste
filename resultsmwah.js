@@ -17,9 +17,9 @@ function calculateScore() {
 
     //Associates your score with what it says about you
     var meaning;
-    if (score >= 120) {
+    if (score >= 98) {
         meaning = "You do not read fanfiction."
-    } else if (score >= 100) {
+    } else if (score >= 90) {
         meaning = "You&#39ve read like. one fanfic and probably against your will."
     } else if (score >= 77) {
         meaning = "I feel like you&#39re more into fluff and coffee shop AUs"
