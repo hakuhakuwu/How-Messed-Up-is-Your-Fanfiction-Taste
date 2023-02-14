@@ -17,11 +17,11 @@ function calculateScore() {
 
     //Associates your score with what it says about you
     var meaning;
-    if (score >= 98) {
+    if (score >= 130) {
         meaning = "You do not read fanfiction."
-    } else if (score >= 90) {
+    } else if (score >= 120) {
         meaning = "You&#39ve read like. one fanfic and probably against your will."
-    } else if (score >= 77) {
+    } else if (score >= 100) {
         meaning = "I feel like you&#39re more into fluff and coffee shop AUs"
      } else if (score >= 58) {
         meaning = "You&#39ve seen your fair share but probably didn&#39t try to explore <em>that</em> much. you probably just stick to bdsm at most"
